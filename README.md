@@ -6,6 +6,8 @@ You can find me on Discord (Terra#9489) and on my Twitter (linked to my profile)
 School Quest es una aplicació per programar tasques i deures a alumnes. Es pot trobar al seu repositori (https://github.com/elterrasense/SchoolQuest) i en la Google Play Store, a la que pots arribar clicant a l'imatge següent.
 <a href="https://play.google.com/store/apps/details?id=com.squest.schoolquest"><img src="https://user-images.githubusercontent.com/19367314/213999827-21df9f36-f5a1-4971-bc55-944d6f9e9785.png"></a>
 
+[![Alt text](https://img.youtube.com/vi/Kq8xfwZluA8/0.jpg)](https://www.youtube.com/watch?v=Kq8xfwZluA8)
+
 # Portfolio
 ![1](https://user-images.githubusercontent.com/19367314/214005956-718e0305-5607-4ef0-9e59-9ee22422240b.png)
 ![2](https://user-images.githubusercontent.com/19367314/214005966-e867aeeb-afb1-4c8b-8d4b-464326857452.png)
