@@ -14,7 +14,7 @@ You can find me on Discord (Terra#9489) and on my Twitter (linked to my profile)
 <a href="https://portofolio-de-aitor.webflow.io/"><img src="https://user-images.githubusercontent.com/19367314/214005979-378c4d60-5878-49aa-bf2f-180cb2f7c639.png"></a>
 ![9](https://user-images.githubusercontent.com/19367314/214005981-a532a9d1-ffbf-4422-b1b3-41ad98e91948.png)
 
-
+<!---
 elterrasense/elterrasense is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
