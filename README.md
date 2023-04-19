@@ -11,6 +11,7 @@ You can find me on Discord (Terra#9489) and on my Twitter (linked to my profile)
 ![5](https://user-images.githubusercontent.com/19367314/214005971-58a6fe11-bc26-4dba-a2de-29616a6892af.png)
 <a href="https://github.com/elterrasense/RratBot"><img src="https://user-images.githubusercontent.com/19367314/214005974-67258226-4dda-403e-afa0-ff7e29c6aec9.png"></a>
 <a href="https://github.com/elterrasense/SchoolQuest"><img src="https://user-images.githubusercontent.com/19367314/214005978-f6b7566c-fd41-47f8-8fb1-90403db4c056.png"></a>
+<a href="https://github.com/elterrasense/cleverp"><img src="https://user-images.githubusercontent.com/19367314/232994804-c16baf40-82c9-40da-817b-22ab2907e3b0.png"></a>
 <a href="https://portofolio-de-aitor.webflow.io/"><img src="https://user-images.githubusercontent.com/19367314/214005979-378c4d60-5878-49aa-bf2f-180cb2f7c639.png"></a>
 ![9](https://user-images.githubusercontent.com/19367314/214005981-a532a9d1-ffbf-4422-b1b3-41ad98e91948.png)
 
