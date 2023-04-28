@@ -1,6 +1,6 @@
 
 # About me
-I'm Terra, currently studying and learning on Java. For now I'm just working on my little test projects.
+I'm Terra, currently studying and learning Java and C#. For now I'm just working on my little projects.
 You can find me on Discord (Terra#9489) and on my Twitter (linked to my profile).
 <!---
 # Portfolio
