@@ -1,8 +1,8 @@
 
-# About me
+<!---# About me
 I'm Terra, currently studying and learning Java and C#. For now I'm just working on my little projects.
-You can find me on Discord (Terra#9489) and on my Twitter (linked to my profile).
-<!---
+You can find me on Discord (Terra#9489) and on my Twitter (linked to my profile).--->
+
 # Portfolio
 ![1](https://user-images.githubusercontent.com/19367314/214005956-718e0305-5607-4ef0-9e59-9ee22422240b.png)
 ![2](https://user-images.githubusercontent.com/19367314/214005966-e867aeeb-afb1-4c8b-8d4b-464326857452.png)
